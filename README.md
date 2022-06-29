@@ -20,8 +20,11 @@
 ***
 Unga Bunga Hello World
 
+```cpp
+using namespace std;
+int main(){
+cout<<"hello world";
+}
 ```
-cout<<"hello world;
-```
-`cout<<"hello world";
+`cout<<"hello world";`
 > blockquote "a towel is most important and valuable thing for a hitchiker who travel between stars"
