@@ -10,10 +10,12 @@
 - dif list item1
 - dif list item2
 
-*italic, **bold, ***bold.
+*italic*, **bold**, ***bold_italic***.
 
 [link description](https://github.com/SelamWorld)
 
 
-
+----
+---
+***
 Unga Bunga Hello World
