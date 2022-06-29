@@ -20,8 +20,8 @@
 ***
 Unga Bunga Hello World
 
-'''
+```
 cout<<"hello world;
-'''
-      cout<<"hello world";
+```
+`cout<<"hello world";
 > blockquote "a towel is most important and valuable thing for a hitchiker who travel between stars"
